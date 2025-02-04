@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Screw
+  - Water
+  - UI
+  - Hole
+  - ScrewLayer1
+  - ScrewLayer2
+  - ScrewLayer3
+  - ScrewLayer4
+  - ScrewLayer5
+  - ScrewLayer6
+  - ScrewLayer7
+  - ScrewLayer8
+  - InputPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 616394571
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 1891275013
+    locked: 0
+  - name: Layer 2
+    uniqueID: 1184028773
+    locked: 0
+  - name: Layer 3
+    uniqueID: 3819092777
+    locked: 0
+  - name: Layer 4
+    uniqueID: 3076060015
+    locked: 0
+  - name: Layer 5
+    uniqueID: 1420387835
+    locked: 0
+  - name: Layer 6
+    uniqueID: 873390445
+    locked: 0
+  - name: Layer 7
+    uniqueID: 2365214719
+    locked: 0
+  - name: Layer 8
+    uniqueID: 3015796581
+    locked: 0
+  - name: Overlay
+    uniqueID: 1733165335
+    locked: 0
+  - name: UI
+    uniqueID: 378612431
+    locked: 0
