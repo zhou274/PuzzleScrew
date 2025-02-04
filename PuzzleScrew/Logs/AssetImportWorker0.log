@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2021.3.41f1c1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/Unity/PuzzleScrew
+D:/Unity/螺丝大神/PuzzleScrew
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53209
-Successfully changed project path to: D:/Unity/PuzzleScrew
-D:/Unity/PuzzleScrew
+62931
+Successfully changed project path to: D:/Unity/螺丝大神/PuzzleScrew
+D:/Unity/螺丝大神/PuzzleScrew
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,17 +47,17 @@ D:/Unity/PuzzleScrew
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [13252] Host "[IP] 192.168.31.197 [Port] 0 [Flags] 2 [Guid] 3546764684 [EditorId] 3546764684 [Version] 1048832 [Id] WindowsEditor(7,DS-202405191929) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [27892] Host "[IP] 192.168.31.197 [Port] 0 [Flags] 2 [Guid] 214575197 [EditorId] 214575197 [Version] 1048832 [Id] WindowsEditor(7,DS-202405191929) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [13252] Host "[IP] 192.168.31.197 [Port] 0 [Flags] 2 [Guid] 3546764684 [EditorId] 3546764684 [Version] 1048832 [Id] WindowsEditor(7,DS-202405191929) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [27892] Host "[IP] 192.168.31.197 [Port] 0 [Flags] 2 [Guid] 214575197 [EditorId] 214575197 [Version] 1048832 [Id] WindowsEditor(7,DS-202405191929) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 AS: AutoStreaming module initializing.
 [Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
-Refreshing native plugins compatible for Editor in 88.31 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 90.16 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.41f1c1 (abf9ed549ceb)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.41f1c1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Unity/PuzzleScrew/Assets
+[Subsystems] Discovering subsystems at path D:/Unity/螺丝大神/PuzzleScrew/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -69,46 +69,46 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.41f1c1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.41f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.41f1c1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56012
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56828
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.41f1c1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.41f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.41f1c1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.41f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.010719 seconds.
+Registered in 0.010597 seconds.
 Native extension for WindowsStandalone target not found
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 340 ms
+Android Extension - Scanning For ADB Devices 315 ms
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 87.96 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 77.63 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.349 seconds
+- Completed reload, in  1.279 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1350ms)
-		BeginReloadAssembly (135ms)
+	ReloadAssembly (1280ms)
+		BeginReloadAssembly (131ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (1069ms)
-			LoadAssemblies (132ms)
+		EndReloadAssembly (1008ms)
+			LoadAssemblies (128ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (159ms)
+			SetupTypeCache (155ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (39ms)
-			SetupLoadedEditorAssemblies (812ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (749ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (514ms)
+				InitializePlatformSupportModulesInManaged (475ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (88ms)
+				RefreshPlugins (78ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (148ms)
+				ProcessInitializeOnLoadAttributes (134ms)
 				ProcessInitializeOnLoadMethodAttributes (59ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -116,56 +116,56 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.009963 seconds.
+Registered in 0.011663 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for iOS target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Completed reload, in  1.848 seconds
+- Completed reload, in  1.948 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1849ms)
-		BeginReloadAssembly (188ms)
+	ReloadAssembly (1949ms)
+		BeginReloadAssembly (208ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (10ms)
+			DisableScriptedObjects (9ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (34ms)
-		EndReloadAssembly (1509ms)
-			LoadAssemblies (131ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (1564ms)
+			LoadAssemblies (155ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (410ms)
+			SetupTypeCache (429ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (71ms)
-			SetupLoadedEditorAssemblies (867ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (894ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (44ms)
+				InitializePlatformSupportModulesInManaged (45ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (88ms)
-				ProcessInitializeOnLoadAttributes (688ms)
-				ProcessInitializeOnLoadMethodAttributes (32ms)
-				AfterProcessingInitializeOnLoad (13ms)
+				BeforeProcessingInitializeOnLoad (87ms)
+				ProcessInitializeOnLoadAttributes (689ms)
+				ProcessInitializeOnLoadMethodAttributes (60ms)
+				AfterProcessingInitializeOnLoad (11ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3256 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 28 unused Assets / (46.4 KB). Loaded Objects now: 3719.
-Memory consumption went from 123.2 MB to 123.1 MB.
-Total: 7.041100 ms (FindLiveObjects: 0.500300 ms CreateObjectMapping: 0.376500 ms MarkObjects: 6.024700 ms  DeleteObjects: 0.137800 ms)
+Unloading 3291 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 34 unused Assets / (46.5 KB). Loaded Objects now: 3769.
+Memory consumption went from 124.7 MB to 124.6 MB.
+Total: 7.325800 ms (FindLiveObjects: 0.534500 ms CreateObjectMapping: 0.370200 ms MarkObjects: 6.277400 ms  DeleteObjects: 0.142000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -181,275 +181,17 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 23831.200570 seconds.
+  Time since last request: 29090.487872 seconds.
   path: Assets/_Game/Scenes/NultsBoltsScene.unity
   artifactKey: Guid(d31973e89dc361742939890828fde652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Scenes/NultsBoltsScene.unity using Guid(d31973e89dc361742939890828fde652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb3527a8f66755f842efcf7935bbf62') in 0.013307 seconds 
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.011239 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.93 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Completed reload, in  1.795 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1795ms)
-		BeginReloadAssembly (224ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (8ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (55ms)
-		EndReloadAssembly (1437ms)
-			LoadAssemblies (134ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (394ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (55ms)
-			SetupLoadedEditorAssemblies (831ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (64ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (78ms)
-				ProcessInitializeOnLoadAttributes (647ms)
-				ProcessInitializeOnLoadMethodAttributes (27ms)
-				AfterProcessingInitializeOnLoad (13ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3235 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 23 unused Assets / (21.9 KB). Loaded Objects now: 3722.
-Memory consumption went from 121.4 MB to 121.4 MB.
-Total: 4.000700 ms (FindLiveObjects: 0.384500 ms CreateObjectMapping: 0.210900 ms MarkObjects: 3.382600 ms  DeleteObjects: 0.021700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 249.958184 seconds.
-  path: Assets/_Game/Fonts/Sen_Line_s_Orange SDF.asset
-  artifactKey: Guid(c1e566dd45e454a02aafca872c081b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Fonts/Sen_Line_s_Orange SDF.asset using Guid(c1e566dd45e454a02aafca872c081b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b31cb7dd1c902192f6d054fb7a302d') in 0.195577 seconds 
-Number of asset objects unloaded after import = 6
-========================================================================
-Received Import Request.
-  Time since last request: 28.087545 seconds.
-  path: Assets/_Game
-  artifactKey: Guid(5d835b2d29c98f64a97dd91bdd8d8f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game using Guid(5d835b2d29c98f64a97dd91bdd8d8f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bff14c9ad44b5c5a4949a136a37ced6') in 0.002861 seconds 
+Start importing Assets/_Game/Scenes/NultsBoltsScene.unity using Guid(d31973e89dc361742939890828fde652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e87e0c66fb97b9e1b909c939da14dfa0') in 0.010379 seconds 
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 5.849724 seconds.
-  path: Assets/_Game/Images
-  artifactKey: Guid(3c4204f4e0c9ddc49a55b9b28684a0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+  Time since last request: 0.000019 seconds.
+  path: Assets/_Game/Scenes/MenuScene.unity
+  artifactKey: Guid(10d9e54c98ddd1c489f0c77573c6109d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Images using Guid(3c4204f4e0c9ddc49a55b9b28684a0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ce045db220cc59eba60d4df0dc6844') in 0.001378 seconds 
+Start importing Assets/_Game/Scenes/MenuScene.unity using Guid(10d9e54c98ddd1c489f0c77573c6109d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b656dfd495783d3f30dec39e06c228fa') in 0.001206 seconds 
 Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 28.075297 seconds.
-  path: Assets/_Game/Images/miaozidongmanti-regular.ttf
-  artifactKey: Guid(f01a5c3a02c59aa499f6ec7c9d4ee7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Images/miaozidongmanti-regular.ttf using Guid(f01a5c3a02c59aa499f6ec7c9d4ee7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92a9f9a78ea3114a58041afb6471329c') in 0.029474 seconds 
-Number of asset objects unloaded after import = 4
-========================================================================
-Received Import Request.
-  Time since last request: 46.865206 seconds.
-  path: Assets/_Game/Fonts/Sen-OutLine SDF.asset
-  artifactKey: Guid(a9b507a2395d4438fa1f717db1fbaa1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Fonts/Sen-OutLine SDF.asset using Guid(a9b507a2395d4438fa1f717db1fbaa1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee8f051da0a2022c66569afdb14f89fc') in 0.075119 seconds 
-Number of asset objects unloaded after import = 6
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/_Game/Fonts/Sen_Line_s_Brown SDF.asset
-  artifactKey: Guid(f7650a24c9e9448698c5f4a82f465fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Fonts/Sen_Line_s_Brown SDF.asset using Guid(f7650a24c9e9448698c5f4a82f465fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae2cf924251b7bdc2d1ae3d9dd172d2b') in 0.058114 seconds 
-Number of asset objects unloaded after import = 6
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/_Game/Fonts/Sen_Line_s_Black SDF.asset
-  artifactKey: Guid(1b5c9a7370e424d53a1b8a999cf54a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Fonts/Sen_Line_s_Black SDF.asset using Guid(1b5c9a7370e424d53a1b8a999cf54a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9247bd24445dae73022f5c1ebddb562') in 0.040352 seconds 
-Number of asset objects unloaded after import = 6
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/_Game/Fonts/Sen_Line_s_Navy SDF.asset
-  artifactKey: Guid(c01a8efaf000a4604a3401af9a739226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Fonts/Sen_Line_s_Navy SDF.asset using Guid(c01a8efaf000a4604a3401af9a739226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d67c6423bc424e4c4e6256480d3476d') in 0.042550 seconds 
-Number of asset objects unloaded after import = 6
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/_Game/Fonts/Sen_Line_s_Black SDF_Light.asset
-  artifactKey: Guid(13d0fe595ec8f4c3ab9be25b4328b0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Fonts/Sen_Line_s_Black SDF_Light.asset using Guid(13d0fe595ec8f4c3ab9be25b4328b0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7f0ba6098151c5133b9d9fc75d7c742') in 0.040470 seconds 
-Number of asset objects unloaded after import = 6
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/_Game/Fonts/Sen_Line_s_Green SDF.asset
-  artifactKey: Guid(607795a6776ee4806b4a047fcb768f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Fonts/Sen_Line_s_Green SDF.asset using Guid(607795a6776ee4806b4a047fcb768f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f58a4e45b77d8847f9bb8c6085a1cee') in 0.041119 seconds 
-Number of asset objects unloaded after import = 6
-========================================================================
-Received Import Request.
-  Time since last request: 0.597221 seconds.
-  path: Assets/_Game/Fonts/Sen_Line_s_Purple SDF.asset
-  artifactKey: Guid(917b6f8b47e4249e2ae318d8182bd8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Fonts/Sen_Line_s_Purple SDF.asset using Guid(917b6f8b47e4249e2ae318d8182bd8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd02dd050330f4f9b64644344b167a63b') in 0.034964 seconds 
-Number of asset objects unloaded after import = 6
-========================================================================
-Received Import Request.
-  Time since last request: 3.804732 seconds.
-  path: Assets/_Game/Images/miaozidongmanti-regular SDF.asset
-  artifactKey: Guid(44d231a21e95ec949b6792467f47ccc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Images/miaozidongmanti-regular SDF.asset using Guid(44d231a21e95ec949b6792467f47ccc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1118ba7d5c5dcf5d3689824683d7c02') in 0.023811 seconds 
-Number of asset objects unloaded after import = 6
-========================================================================
-Received Import Request.
-  Time since last request: 0.348821 seconds.
-  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
-  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0c9f27e6f51732e63a526da82c3858e') in 0.026434 seconds 
-Number of asset objects unloaded after import = 6
-========================================================================
-Received Import Request.
-  Time since last request: 0.091811 seconds.
-  path: Assets/_Game/Fonts/Cairo_Line_Purple SDF.asset
-  artifactKey: Guid(a6799369f1a8842dabb11d07834dba06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Fonts/Cairo_Line_Purple SDF.asset using Guid(a6799369f1a8842dabb11d07834dba06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8bead2ac26b14743c9ba4b8e270b549') in 0.065541 seconds 
-Number of asset objects unloaded after import = 7
-========================================================================
-Received Import Request.
-  Time since last request: 36.243889 seconds.
-  path: Assets/_Game/Sprites/UI/Button/Button01_s_Yellow.png
-  artifactKey: Guid(5813d4859066f5245814eced96607110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Sprites/UI/Button/Button01_s_Yellow.png using Guid(5813d4859066f5245814eced96607110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060240a159fe594fcd0010e87253995d') in 0.084367 seconds 
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/_Game/Sprites/UI/Button/Button_LeftFlush_Dark.png
-  artifactKey: Guid(149a59df26a234146916c69c6e38e787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Sprites/UI/Button/Button_LeftFlush_Dark.png using Guid(149a59df26a234146916c69c6e38e787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7319d2182406571fafd14f973d623e94') in 0.013228 seconds 
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/_Game/Images/cebianlan.png
-  artifactKey: Guid(f82c7fde71043f84b919741febdc47b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Images/cebianlan.png using Guid(f82c7fde71043f84b919741febdc47b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85b60843965c808fca1fc707cd41caf6') in 0.065537 seconds 
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 20.723178 seconds.
-  path: Assets/_Game/Sprites/UI/Button/Emoji_Sample_2.png
-  artifactKey: Guid(49e86c842365aa8428713298c2191449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Sprites/UI/Button/Emoji_Sample_2.png using Guid(49e86c842365aa8428713298c2191449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653f049b59a328c51978e0e36ac83361') in 0.020117 seconds 
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/_Game/Sprites/PlaceSpecial/Zooble/eye_1.png
-  artifactKey: Guid(fb88c8536ed74004dbe240994199bc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Sprites/PlaceSpecial/Zooble/eye_1.png using Guid(fb88c8536ed74004dbe240994199bc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d7d7f4c1132776def7d00df3afa03e3') in 0.021577 seconds 
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/_Game/Sprites/PlaceSpecial/Zooble/eye_2.png
-  artifactKey: Guid(5f77577e5030ef044a7f65e1eed467c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Sprites/PlaceSpecial/Zooble/eye_2.png using Guid(5f77577e5030ef044a7f65e1eed467c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11b8fad193e6359085fcbf4627826b03') in 0.023427 seconds 
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 42.727610 seconds.
-  path: Assets/_Game/Sprites/UI/Icon/ItemIcon_Video.Png
-  artifactKey: Guid(9fec290327113d543b22d1048a087cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Sprites/UI/Icon/ItemIcon_Video.Png using Guid(9fec290327113d543b22d1048a087cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89ed3dc7f12eec7755472693f48f6402') in 0.033881 seconds 
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/_Game/Sprites/PlaceSpecial/Lion/lion body.png
-  artifactKey: Guid(991785bd945bd544aa1734a7b60a1e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Sprites/PlaceSpecial/Lion/lion body.png using Guid(991785bd945bd544aa1734a7b60a1e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '311f2fca781f96a22f91e5169095ec17') in 0.051047 seconds 
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.868358 seconds.
-  path: Assets/_Game/Sprites/Plate/Skin_2/tile_step_green.png
-  artifactKey: Guid(9cf60605087008641b1eb5206c5d1a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Sprites/Plate/Skin_2/tile_step_green.png using Guid(9cf60605087008641b1eb5206c5d1a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f313010e5886de5ea80faea8508e7f5') in 0.083008 seconds 
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 23.526593 seconds.
-  path: Assets/_Game/Fonts/Cairo_Line_Black SDF.asset
-  artifactKey: Guid(7137805b022d44869b12d93cb388c588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Fonts/Cairo_Line_Black SDF.asset using Guid(7137805b022d44869b12d93cb388c588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c1737ce4705993837804a38b55aa51') in 0.081824 seconds 
-Number of asset objects unloaded after import = 7
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/_Game/Fonts/Cairo_Line_Orange SDF.asset
-  artifactKey: Guid(30a35fb89d9f048e18aad136f328d987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/_Game/Fonts/Cairo_Line_Orange SDF.asset using Guid(30a35fb89d9f048e18aad136f328d987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9536fc9fbf09f6fa35262e521cbe4d93') in 0.070247 seconds 
-Number of asset objects unloaded after import = 7
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
